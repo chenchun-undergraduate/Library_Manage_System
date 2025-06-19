@@ -16,3 +16,5 @@ Data Structures:
   - `ArrayList<Book>`: For storing book inventory
 Persistence: `books.csv`, `users.csv` with plain text format
 
+# How to Run
+git clone https://github.com/chenchun-undergraduate/Library_Manage_System.git
